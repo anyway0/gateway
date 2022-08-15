@@ -4,7 +4,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "user06-gateway"
+    _PROJECT_NAME: "bis-gateway"
 
 phases:
   install:
